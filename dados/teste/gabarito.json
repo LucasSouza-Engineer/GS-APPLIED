@@ -1,0 +1,4241 @@
+[
+  {
+    "id": "enel_000",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_000.jpg",
+    "plana": "planas/enel_000.png",
+    "cantos": [
+      [
+        130.89999389648438,
+        177.10000610351562
+      ],
+      [
+        1082.300048828125,
+        112.5
+      ],
+      [
+        1091.9000244140625,
+        1424.5999755859375
+      ],
+      [
+        188.3000030517578,
+        1489.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "3460",
+      "complemento": "Casa 2",
+      "bairro": "Pinheiros",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "05406-496"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_001",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_001.jpg",
+    "plana": "planas/enel_001.png",
+    "cantos": [
+      [
+        247.10000610351562,
+        22.100000381469727
+      ],
+      [
+        1131.800048828125,
+        243.6999969482422
+      ],
+      [
+        1018.4000244140625,
+        1555.199951171875
+      ],
+      [
+        42.79999923706055,
+        1373.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Sapopemba",
+      "numero": "3008",
+      "complemento": "Fundos",
+      "bairro": "Sapopemba",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03793-352"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_002",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_002.jpg",
+    "plana": "planas/enel_002.png",
+    "cantos": [
+      [
+        342.0,
+        178.8000030517578
+      ],
+      [
+        999.0999755859375,
+        325.8999938964844
+      ],
+      [
+        975.0999755859375,
+        1394.5
+      ],
+      [
+        245.60000610351562,
+        1353.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "3782",
+      "complemento": "Bloco C Apto 51",
+      "bairro": "Centro",
+      "cidade": "Santos",
+      "uf": "SP",
+      "cep": "11013-983"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_003",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_003.jpg",
+    "plana": "planas/enel_003.png",
+    "cantos": [
+      [
+        166.8000030517578,
+        155.5
+      ],
+      [
+        1126.0,
+        190.5
+      ],
+      [
+        1106.4000244140625,
+        1490.699951171875
+      ],
+      [
+        139.39999389648438,
+        1452.5999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Ipiranga",
+      "numero": "3410",
+      "complemento": "",
+      "bairro": "Ipiranga",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04208-825"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_004",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_004.jpg",
+    "plana": "planas/enel_004.png",
+    "cantos": [
+      [
+        93.69999694824219,
+        91.0999984741211
+      ],
+      [
+        1141.5,
+        168.89999389648438
+      ],
+      [
+        1121.0999755859375,
+        1475.5999755859375
+      ],
+      [
+        156.1999969482422,
+        1444.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Ipiranga",
+      "numero": "741",
+      "complemento": "Fundos",
+      "bairro": "Ipiranga",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04206-388"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_005",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_005.jpg",
+    "plana": "planas/enel_005.png",
+    "cantos": [
+      [
+        270.3999938964844,
+        206.5
+      ],
+      [
+        1042.300048828125,
+        392.0
+      ],
+      [
+        1022.7000122070312,
+        1282.0
+      ],
+      [
+        191.8000030517578,
+        1342.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Primitiva Vianco",
+      "numero": "1208",
+      "complemento": "Fundos",
+      "bairro": "Centro",
+      "cidade": "Osasco",
+      "uf": "SP",
+      "cep": "06016-868"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_006",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_006.jpg",
+    "plana": "planas/enel_006.png",
+    "cantos": [
+      [
+        114.80000305175781,
+        139.5
+      ],
+      [
+        1011.7000122070312,
+        175.5
+      ],
+      [
+        1028.0,
+        1478.5
+      ],
+      [
+        124.5,
+        1496.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Celso Garcia",
+      "numero": "303",
+      "complemento": "",
+      "bairro": "Brás",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03023-616"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_007",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_007.jpg",
+    "plana": "planas/enel_007.png",
+    "cantos": [
+      [
+        95.0,
+        166.89999389648438
+      ],
+      [
+        1021.7000122070312,
+        205.0
+      ],
+      [
+        1068.699951171875,
+        1383.0
+      ],
+      [
+        198.8000030517578,
+        1504.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Celso Garcia",
+      "numero": "1070",
+      "complemento": "Fundos",
+      "bairro": "Brás",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03021-761"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_008",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_008.jpg",
+    "plana": "planas/enel_008.png",
+    "cantos": [
+      [
+        144.0,
+        248.39999389648438
+      ],
+      [
+        950.5999755859375,
+        171.1999969482422
+      ],
+      [
+        1116.5,
+        1456.5999755859375
+      ],
+      [
+        198.89999389648438,
+        1477.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Dom Pedro II",
+      "numero": "2388",
+      "complemento": "Bloco C Apto 50",
+      "bairro": "Centro",
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "cep": "07042-982"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_009",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_009.jpg",
+    "plana": "planas/enel_009.png",
+    "cantos": [
+      [
+        65.0999984741211,
+        186.0
+      ],
+      [
+        1032.4000244140625,
+        123.0
+      ],
+      [
+        1105.5,
+        1440.4000244140625
+      ],
+      [
+        141.60000610351562,
+        1534.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "3171",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01311-265"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_010",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_010.jpg",
+    "plana": "planas/enel_010.png",
+    "cantos": [
+      [
+        98.69999694824219,
+        284.79998779296875
+      ],
+      [
+        1014.5999755859375,
+        122.9000015258789
+      ],
+      [
+        1167.0,
+        1334.699951171875
+      ],
+      [
+        267.20001220703125,
+        1393.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Primitiva Vianco",
+      "numero": "3149",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Osasco",
+      "uf": "SP",
+      "cep": "06016-562"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_011",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_011.jpg",
+    "plana": "planas/enel_011.png",
+    "cantos": [
+      [
+        55.79999923706055,
+        220.39999389648438
+      ],
+      [
+        1009.9000244140625,
+        87.19999694824219
+      ],
+      [
+        1009.9000244140625,
+        1336.199951171875
+      ],
+      [
+        179.3000030517578,
+        1512.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Barão de Jaguara",
+      "numero": "692",
+      "complemento": "Casa 2",
+      "bairro": "Centro",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "cep": "13015-123"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_012",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_012.jpg",
+    "plana": "planas/enel_012.png",
+    "cantos": [
+      [
+        77.19999694824219,
+        76.0999984741211
+      ],
+      [
+        1060.300048828125,
+        94.0
+      ],
+      [
+        1031.0,
+        1471.0999755859375
+      ],
+      [
+        72.5999984741211,
+        1451.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "1892",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Santos",
+      "uf": "SP",
+      "cep": "11013-415"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_013",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_013.jpg",
+    "plana": "planas/enel_013.png",
+    "cantos": [
+      [
+        247.39999389648438,
+        46.400001525878906
+      ],
+      [
+        1090.0999755859375,
+        223.89999389648438
+      ],
+      [
+        977.7999877929688,
+        1450.9000244140625
+      ],
+      [
+        90.4000015258789,
+        1268.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Tobias Barreto",
+      "numero": "2995",
+      "complemento": "Casa 1",
+      "bairro": "Mooca",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03176-528"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_014",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_014.jpg",
+    "plana": "planas/enel_014.png",
+    "cantos": [
+      [
+        100.5999984741211,
+        249.0
+      ],
+      [
+        934.4000244140625,
+        5.0
+      ],
+      [
+        1160.9000244140625,
+        1316.699951171875
+      ],
+      [
+        203.8000030517578,
+        1476.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Sapopemba",
+      "numero": "211",
+      "complemento": "",
+      "bairro": "Sapopemba",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03472-580"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_015",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_015.jpg",
+    "plana": "planas/enel_015.png",
+    "cantos": [
+      [
+        195.39999389648438,
+        134.1999969482422
+      ],
+      [
+        1115.0,
+        239.0
+      ],
+      [
+        1009.7999877929688,
+        1536.699951171875
+      ],
+      [
+        104.4000015258789,
+        1427.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "3489",
+      "complemento": "Casa 2",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-000"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_016",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_016.jpg",
+    "plana": "planas/enel_016.png",
+    "cantos": [
+      [
+        212.3000030517578,
+        251.1999969482422
+      ],
+      [
+        1064.199951171875,
+        161.10000610351562
+      ],
+      [
+        957.9000244140625,
+        1489.699951171875
+      ],
+      [
+        150.39999389648438,
+        1470.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Travessa das Flores",
+      "numero": "3474",
+      "complemento": "Fundos",
+      "bairro": "Itaquera",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "08240-307"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_017",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_017.jpg",
+    "plana": "planas/enel_017.png",
+    "cantos": [
+      [
+        5.0,
+        241.8000030517578
+      ],
+      [
+        782.0999755859375,
+        194.89999389648438
+      ],
+      [
+        1117.5,
+        1242.800048828125
+      ],
+      [
+        350.0,
+        1591.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Domingos de Morais",
+      "numero": "201",
+      "complemento": "",
+      "bairro": "Vila Mariana",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04022-034"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_018",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_018.jpg",
+    "plana": "planas/enel_018.png",
+    "cantos": [
+      [
+        147.10000610351562,
+        83.4000015258789
+      ],
+      [
+        1106.199951171875,
+        148.3000030517578
+      ],
+      [
+        1030.300048828125,
+        1518.5999755859375
+      ],
+      [
+        84.80000305175781,
+        1447.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Dom Pedro II",
+      "numero": "595",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "cep": "07065-037"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_019",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_019.jpg",
+    "plana": "planas/enel_019.png",
+    "cantos": [
+      [
+        185.5,
+        152.10000610351562
+      ],
+      [
+        1051.300048828125,
+        281.8999938964844
+      ],
+      [
+        1007.0,
+        1511.0999755859375
+      ],
+      [
+        32.5,
+        1401.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Augusta",
+      "numero": "3468",
+      "complemento": "Bloco D Apto 36",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01304-830"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_020",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_020.jpg",
+    "plana": "planas/enel_020.png",
+    "cantos": [
+      [
+        293.8999938964844,
+        150.8000030517578
+      ],
+      [
+        1068.800048828125,
+        326.29998779296875
+      ],
+      [
+        1029.4000244140625,
+        1487.800048828125
+      ],
+      [
+        140.1999969482422,
+        1296.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Ipiranga",
+      "numero": "2003",
+      "complemento": "Apto 24",
+      "bairro": "Ipiranga",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04206-658"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_021",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_021.jpg",
+    "plana": "planas/enel_021.png",
+    "cantos": [
+      [
+        92.9000015258789,
+        180.5
+      ],
+      [
+        1017.0,
+        147.3000030517578
+      ],
+      [
+        1059.4000244140625,
+        1418.800048828125
+      ],
+      [
+        129.8000030517578,
+        1507.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "3656",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01310-932"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_022",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_022.jpg",
+    "plana": "planas/enel_022.png",
+    "cantos": [
+      [
+        183.8000030517578,
+        101.69999694824219
+      ],
+      [
+        1078.5999755859375,
+        111.0
+      ],
+      [
+        1084.300048828125,
+        1504.0
+      ],
+      [
+        185.0,
+        1389.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Alameda Santos",
+      "numero": "2630",
+      "complemento": "Bloco A Apto 69",
+      "bairro": "Jardim Paulista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01418-779"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_023",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_023.jpg",
+    "plana": "planas/enel_023.png",
+    "cantos": [
+      [
+        288.8999938964844,
+        34.5
+      ],
+      [
+        1052.699951171875,
+        163.5
+      ],
+      [
+        874.2999877929688,
+        1402.199951171875
+      ],
+      [
+        140.8000030517578,
+        1252.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Marechal Deodoro",
+      "numero": "572",
+      "complemento": "Fundos",
+      "bairro": "Centro",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "cep": "09710-754"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_024",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_024.jpg",
+    "plana": "planas/enel_024.png",
+    "cantos": [
+      [
+        114.0999984741211,
+        148.3000030517578
+      ],
+      [
+        1127.9000244140625,
+        132.10000610351562
+      ],
+      [
+        1097.5999755859375,
+        1478.300048828125
+      ],
+      [
+        97.19999694824219,
+        1473.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Augusta",
+      "numero": "2965",
+      "complemento": "Fundos",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01305-337"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_025",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_025.jpg",
+    "plana": "planas/enel_025.png",
+    "cantos": [
+      [
+        194.5,
+        246.6999969482422
+      ],
+      [
+        1026.4000244140625,
+        110.0
+      ],
+      [
+        1138.4000244140625,
+        1322.4000244140625
+      ],
+      [
+        219.8000030517578,
+        1386.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Celso Garcia",
+      "numero": "1219",
+      "complemento": "Apto 202",
+      "bairro": "Brás",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03029-013"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_026",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_026.jpg",
+    "plana": "planas/enel_026.png",
+    "cantos": [
+      [
+        239.10000610351562,
+        358.5
+      ],
+      [
+        904.2000122070312,
+        90.4000015258789
+      ],
+      [
+        1108.199951171875,
+        1304.699951171875
+      ],
+      [
+        348.0,
+        1377.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Ipiranga",
+      "numero": "2253",
+      "complemento": "",
+      "bairro": "Ipiranga",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04208-493"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_027",
+    "empresa": "enel",
+    "nivel": "facil",
+    "foto": "fotos/enel_027.jpg",
+    "plana": "planas/enel_027.png",
+    "cantos": [
+      [
+        216.6999969482422,
+        131.39999389648438
+      ],
+      [
+        1133.9000244140625,
+        204.5
+      ],
+      [
+        1052.199951171875,
+        1538.9000244140625
+      ],
+      [
+        142.39999389648438,
+        1428.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Inajar de Souza",
+      "numero": "535",
+      "complemento": "",
+      "bairro": "Limão",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "02833-283"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_028",
+    "empresa": "enel",
+    "nivel": "medio",
+    "foto": "fotos/enel_028.jpg",
+    "plana": "planas/enel_028.png",
+    "cantos": [
+      [
+        165.8000030517578,
+        125.4000015258789
+      ],
+      [
+        1037.199951171875,
+        225.39999389648438
+      ],
+      [
+        948.0999755859375,
+        1437.5
+      ],
+      [
+        83.19999694824219,
+        1423.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Conde de Bonfim",
+      "numero": "1794",
+      "complemento": "Bloco D Apto 75",
+      "bairro": "Tijuca",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "20525-575"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "enel_029",
+    "empresa": "enel",
+    "nivel": "dificil",
+    "foto": "fotos/enel_029.jpg",
+    "plana": "planas/enel_029.png",
+    "cantos": [
+      [
+        19.0,
+        305.0
+      ],
+      [
+        883.7999877929688,
+        166.6999969482422
+      ],
+      [
+        1195.0,
+        1408.5
+      ],
+      [
+        346.3999938964844,
+        1595.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Travessa das Flores",
+      "numero": "1060",
+      "complemento": "Apto 91",
+      "bairro": "Itaquera",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "08226-659"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Ática",
+        "numero": "673",
+        "complemento": "",
+        "bairro": "Jardim Brasil",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04634-042"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_000",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_000.jpg",
+    "plana": "planas/sabesp_000.png",
+    "cantos": [
+      [
+        127.80000305175781,
+        183.10000610351562
+      ],
+      [
+        1065.800048828125,
+        97.0999984741211
+      ],
+      [
+        1130.699951171875,
+        1408.699951171875
+      ],
+      [
+        196.1999969482422,
+        1475.5999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Marechal Deodoro",
+      "numero": "298",
+      "complemento": "Fundos",
+      "bairro": "Centro",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "cep": "09710-147"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_001",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_001.jpg",
+    "plana": "planas/sabesp_001.png",
+    "cantos": [
+      [
+        257.70001220703125,
+        99.69999694824219
+      ],
+      [
+        1193.4000244140625,
+        298.8999938964844
+      ],
+      [
+        894.2000122070312,
+        1595.0
+      ],
+      [
+        41.900001525878906,
+        1401.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Primitiva Vianco",
+      "numero": "2050",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Osasco",
+      "uf": "SP",
+      "cep": "06016-180"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_002",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_002.jpg",
+    "plana": "planas/sabesp_002.png",
+    "cantos": [
+      [
+        92.0,
+        401.5
+      ],
+      [
+        970.7999877929688,
+        182.8000030517578
+      ],
+      [
+        1074.0,
+        1217.800048828125
+      ],
+      [
+        320.29998779296875,
+        1373.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "3677",
+      "complemento": "",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-283"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_003",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_003.jpg",
+    "plana": "planas/sabesp_003.png",
+    "cantos": [
+      [
+        140.8000030517578,
+        157.5
+      ],
+      [
+        1127.199951171875,
+        163.60000610351562
+      ],
+      [
+        1102.300048828125,
+        1550.300048828125
+      ],
+      [
+        96.0999984741211,
+        1540.199951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Tobias Barreto",
+      "numero": "943",
+      "complemento": "Fundos",
+      "bairro": "Mooca",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03176-151"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_004",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_004.jpg",
+    "plana": "planas/sabesp_004.png",
+    "cantos": [
+      [
+        100.80000305175781,
+        338.1000061035156
+      ],
+      [
+        969.5999755859375,
+        220.0
+      ],
+      [
+        1060.5,
+        1390.800048828125
+      ],
+      [
+        224.8000030517578,
+        1476.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Estrada do M'Boi Mirim",
+      "numero": "2883",
+      "complemento": "",
+      "bairro": "Jardim Ângela",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04911-893"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_005",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_005.jpg",
+    "plana": "planas/sabesp_005.png",
+    "cantos": [
+      [
+        341.3999938964844,
+        78.5999984741211
+      ],
+      [
+        1195.0,
+        255.6999969482422
+      ],
+      [
+        939.2999877929688,
+        1350.0
+      ],
+      [
+        184.5,
+        1202.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "2096",
+      "complemento": "",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-039"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_006",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_006.jpg",
+    "plana": "planas/sabesp_006.png",
+    "cantos": [
+      [
+        137.60000610351562,
+        94.0999984741211
+      ],
+      [
+        1087.699951171875,
+        68.30000305175781
+      ],
+      [
+        1106.0,
+        1465.699951171875
+      ],
+      [
+        140.3000030517578,
+        1498.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Marechal Deodoro",
+      "numero": "908",
+      "complemento": "Bloco A Apto 28",
+      "bairro": "Centro",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "cep": "09710-187"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_007",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_007.jpg",
+    "plana": "planas/sabesp_007.png",
+    "cantos": [
+      [
+        47.70000076293945,
+        187.60000610351562
+      ],
+      [
+        962.5,
+        146.10000610351562
+      ],
+      [
+        1158.699951171875,
+        1344.5
+      ],
+      [
+        220.5,
+        1486.199951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "1829",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01311-899"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_008",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_008.jpg",
+    "plana": "planas/sabesp_008.png",
+    "cantos": [
+      [
+        124.80000305175781,
+        127.5
+      ],
+      [
+        851.5,
+        105.80000305175781
+      ],
+      [
+        1098.199951171875,
+        1357.5999755859375
+      ],
+      [
+        356.8999938964844,
+        1450.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "2707",
+      "complemento": "Apto 162",
+      "bairro": "Centro",
+      "cidade": "Santos",
+      "uf": "SP",
+      "cep": "11013-645"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_009",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_009.jpg",
+    "plana": "planas/sabesp_009.png",
+    "cantos": [
+      [
+        85.5999984741211,
+        167.0
+      ],
+      [
+        1055.9000244140625,
+        74.69999694824219
+      ],
+      [
+        1148.5,
+        1516.0
+      ],
+      [
+        103.5,
+        1587.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Itapura",
+      "numero": "812",
+      "complemento": "Fundos",
+      "bairro": "Tatuapé",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03310-039"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_010",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_010.jpg",
+    "plana": "planas/sabesp_010.png",
+    "cantos": [
+      [
+        240.8000030517578,
+        103.19999694824219
+      ],
+      [
+        1129.9000244140625,
+        255.10000610351562
+      ],
+      [
+        1101.5,
+        1506.5999755859375
+      ],
+      [
+        102.69999694824219,
+        1490.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "3196",
+      "complemento": "Casa 4",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-272"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_011",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_011.jpg",
+    "plana": "planas/sabesp_011.png",
+    "cantos": [
+      [
+        345.70001220703125,
+        298.79998779296875
+      ],
+      [
+        1083.800048828125,
+        430.29998779296875
+      ],
+      [
+        801.5,
+        1448.699951171875
+      ],
+      [
+        31.0,
+        1291.199951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "2131",
+      "complemento": "",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-845"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_012",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_012.jpg",
+    "plana": "planas/sabesp_012.png",
+    "cantos": [
+      [
+        164.5,
+        149.5
+      ],
+      [
+        1145.9000244140625,
+        215.10000610351562
+      ],
+      [
+        1061.0,
+        1550.800048828125
+      ],
+      [
+        97.0,
+        1464.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Inajar de Souza",
+      "numero": "1142",
+      "complemento": "",
+      "bairro": "Limão",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "02847-093"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_013",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_013.jpg",
+    "plana": "planas/sabesp_013.png",
+    "cantos": [
+      [
+        91.19999694824219,
+        250.8000030517578
+      ],
+      [
+        1056.5999755859375,
+        63.599998474121094
+      ],
+      [
+        1082.5999755859375,
+        1374.5999755859375
+      ],
+      [
+        169.0,
+        1543.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "1951",
+      "complemento": "Apto 233",
+      "bairro": "Centro",
+      "cidade": "Santos",
+      "uf": "SP",
+      "cep": "11013-003"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_014",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_014.jpg",
+    "plana": "planas/sabesp_014.png",
+    "cantos": [
+      [
+        74.80000305175781,
+        295.0
+      ],
+      [
+        954.5,
+        196.5
+      ],
+      [
+        1059.800048828125,
+        1296.5
+      ],
+      [
+        178.6999969482422,
+        1480.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Estrada do M'Boi Mirim",
+      "numero": "2686",
+      "complemento": "",
+      "bairro": "Jardim Ângela",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04924-741"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_015",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_015.jpg",
+    "plana": "planas/sabesp_015.png",
+    "cantos": [
+      [
+        81.0999984741211,
+        145.3000030517578
+      ],
+      [
+        1093.0,
+        72.0
+      ],
+      [
+        1099.9000244140625,
+        1513.0
+      ],
+      [
+        103.5,
+        1494.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Alameda Santos",
+      "numero": "148",
+      "complemento": "Bloco D Apto 82",
+      "bairro": "Jardim Paulista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01419-486"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_016",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_016.jpg",
+    "plana": "planas/sabesp_016.png",
+    "cantos": [
+      [
+        269.20001220703125,
+        157.5
+      ],
+      [
+        1070.199951171875,
+        306.29998779296875
+      ],
+      [
+        1050.5,
+        1471.699951171875
+      ],
+      [
+        89.9000015258789,
+        1373.199951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Tobias Barreto",
+      "numero": "1394",
+      "complemento": "",
+      "bairro": "Mooca",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03176-243"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_017",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_017.jpg",
+    "plana": "planas/sabesp_017.png",
+    "cantos": [
+      [
+        371.3999938964844,
+        34.5
+      ],
+      [
+        1184.5999755859375,
+        309.8999938964844
+      ],
+      [
+        881.4000244140625,
+        1507.4000244140625
+      ],
+      [
+        92.9000015258789,
+        1271.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Travessa das Flores",
+      "numero": "1622",
+      "complemento": "Casa 1",
+      "bairro": "Itaquera",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "08242-323"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_018",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_018.jpg",
+    "plana": "planas/sabesp_018.png",
+    "cantos": [
+      [
+        113.5999984741211,
+        111.80000305175781
+      ],
+      [
+        1060.699951171875,
+        148.6999969482422
+      ],
+      [
+        1005.2000122070312,
+        1487.9000244140625
+      ],
+      [
+        45.400001525878906,
+        1463.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Primitiva Vianco",
+      "numero": "3245",
+      "complemento": "Fundos",
+      "bairro": "Centro",
+      "cidade": "Osasco",
+      "uf": "SP",
+      "cep": "06016-126"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_019",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_019.jpg",
+    "plana": "planas/sabesp_019.png",
+    "cantos": [
+      [
+        68.9000015258789,
+        194.89999389648438
+      ],
+      [
+        969.0,
+        68.9000015258789
+      ],
+      [
+        1134.199951171875,
+        1401.9000244140625
+      ],
+      [
+        239.1999969482422,
+        1478.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Domingos de Morais",
+      "numero": "2534",
+      "complemento": "Fundos",
+      "bairro": "Vila Mariana",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04027-652"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_020",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_020.jpg",
+    "plana": "planas/sabesp_020.png",
+    "cantos": [
+      [
+        292.6000061035156,
+        58.0
+      ],
+      [
+        1195.0,
+        395.29998779296875
+      ],
+      [
+        907.7000122070312,
+        1575.199951171875
+      ],
+      [
+        94.4000015258789,
+        1305.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Celso Garcia",
+      "numero": "116",
+      "complemento": "",
+      "bairro": "Brás",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03040-221"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_021",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_021.jpg",
+    "plana": "planas/sabesp_021.png",
+    "cantos": [
+      [
+        109.0999984741211,
+        178.6999969482422
+      ],
+      [
+        1017.0,
+        87.0999984741211
+      ],
+      [
+        1094.9000244140625,
+        1411.0
+      ],
+      [
+        208.3000030517578,
+        1427.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Industrial",
+      "numero": "3087",
+      "complemento": "",
+      "bairro": "Jardim",
+      "cidade": "Santo André",
+      "uf": "SP",
+      "cep": "09080-552"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_022",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_022.jpg",
+    "plana": "planas/sabesp_022.png",
+    "cantos": [
+      [
+        157.5,
+        106.5999984741211
+      ],
+      [
+        1110.699951171875,
+        210.39999389648438
+      ],
+      [
+        949.4000244140625,
+        1509.800048828125
+      ],
+      [
+        102.0999984741211,
+        1409.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Travessa das Flores",
+      "numero": "2376",
+      "complemento": "Bloco A Apto 82",
+      "bairro": "Itaquera",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "08292-204"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_023",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_023.jpg",
+    "plana": "planas/sabesp_023.png",
+    "cantos": [
+      [
+        309.1000061035156,
+        119.0999984741211
+      ],
+      [
+        1031.199951171875,
+        239.60000610351562
+      ],
+      [
+        818.7000122070312,
+        1491.9000244140625
+      ],
+      [
+        138.8000030517578,
+        1354.5999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Industrial",
+      "numero": "3355",
+      "complemento": "Fundos",
+      "bairro": "Jardim",
+      "cidade": "Santo André",
+      "uf": "SP",
+      "cep": "09080-779"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_024",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_024.jpg",
+    "plana": "planas/sabesp_024.png",
+    "cantos": [
+      [
+        90.0999984741211,
+        125.0
+      ],
+      [
+        1129.0999755859375,
+        101.5999984741211
+      ],
+      [
+        1052.0999755859375,
+        1575.4000244140625
+      ],
+      [
+        105.5999984741211,
+        1526.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Estrada do M'Boi Mirim",
+      "numero": "1301",
+      "complemento": "Casa 2",
+      "bairro": "Jardim Ângela",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04907-579"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_025",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_025.jpg",
+    "plana": "planas/sabesp_025.png",
+    "cantos": [
+      [
+        198.1999969482422,
+        165.3000030517578
+      ],
+      [
+        1011.9000244140625,
+        197.0
+      ],
+      [
+        952.5999755859375,
+        1442.4000244140625
+      ],
+      [
+        132.3000030517578,
+        1301.5999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Tobias Barreto",
+      "numero": "3941",
+      "complemento": "",
+      "bairro": "Mooca",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03176-574"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_026",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_026.jpg",
+    "plana": "planas/sabesp_026.png",
+    "cantos": [
+      [
+        160.0,
+        253.5
+      ],
+      [
+        908.0,
+        210.5
+      ],
+      [
+        1041.5,
+        1468.199951171875
+      ],
+      [
+        218.39999389648438,
+        1515.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Voluntários da Pátria",
+      "numero": "569",
+      "complemento": "",
+      "bairro": "Santana",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "02156-210"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_027",
+    "empresa": "sabesp",
+    "nivel": "facil",
+    "foto": "fotos/sabesp_027.jpg",
+    "plana": "planas/sabesp_027.png",
+    "cantos": [
+      [
+        107.0999984741211,
+        145.60000610351562
+      ],
+      [
+        1095.300048828125,
+        89.30000305175781
+      ],
+      [
+        1136.199951171875,
+        1525.0999755859375
+      ],
+      [
+        131.39999389648438,
+        1533.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Barão de Jaguara",
+      "numero": "2905",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "cep": "13015-011"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_028",
+    "empresa": "sabesp",
+    "nivel": "medio",
+    "foto": "fotos/sabesp_028.jpg",
+    "plana": "planas/sabesp_028.png",
+    "cantos": [
+      [
+        108.5,
+        185.6999969482422
+      ],
+      [
+        1068.800048828125,
+        147.8000030517578
+      ],
+      [
+        1106.9000244140625,
+        1487.5
+      ],
+      [
+        96.5999984741211,
+        1519.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Voluntários da Pátria",
+      "numero": "1293",
+      "complemento": "Fundos",
+      "bairro": "Santana",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "02165-668"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "sabesp_029",
+    "empresa": "sabesp",
+    "nivel": "dificil",
+    "foto": "fotos/sabesp_029.jpg",
+    "plana": "planas/sabesp_029.png",
+    "cantos": [
+      [
+        279.1000061035156,
+        108.4000015258789
+      ],
+      [
+        1031.5999755859375,
+        176.89999389648438
+      ],
+      [
+        1019.2999877929688,
+        1398.699951171875
+      ],
+      [
+        191.0,
+        1307.5999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Sapopemba",
+      "numero": "698",
+      "complemento": "Apto 124",
+      "bairro": "Sapopemba",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03397-286"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Costa Carvalho",
+        "numero": "300",
+        "complemento": "",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05429-000"
+      }
+    ]
+  },
+  {
+    "id": "claro_000",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_000.jpg",
+    "plana": "planas/claro_000.png",
+    "cantos": [
+      [
+        174.0,
+        97.5
+      ],
+      [
+        1070.5999755859375,
+        165.1999969482422
+      ],
+      [
+        1001.9000244140625,
+        1477.199951171875
+      ],
+      [
+        54.79999923706055,
+        1396.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "1463",
+      "complemento": "",
+      "bairro": "Pinheiros",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "05406-864"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_001",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_001.jpg",
+    "plana": "planas/claro_001.png",
+    "cantos": [
+      [
+        77.0999984741211,
+        210.3000030517578
+      ],
+      [
+        999.5,
+        159.60000610351562
+      ],
+      [
+        1033.9000244140625,
+        1395.800048828125
+      ],
+      [
+        145.3000030517578,
+        1363.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Augusta",
+      "numero": "348",
+      "complemento": "Casa 5",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01305-483"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_002",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_002.jpg",
+    "plana": "planas/claro_002.png",
+    "cantos": [
+      [
+        15.0,
+        332.5
+      ],
+      [
+        813.4000244140625,
+        233.6999969482422
+      ],
+      [
+        1167.800048828125,
+        1206.5
+      ],
+      [
+        251.8000030517578,
+        1595.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Afonso Pena",
+      "numero": "3139",
+      "complemento": "Apto 142",
+      "bairro": "Centro",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "cep": "30130-854"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Estrada do M'Boi Mirim",
+        "numero": "3956",
+        "complemento": "Casa 3",
+        "bairro": "Jardim Ângela",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04944-408"
+      }
+    ]
+  },
+  {
+    "id": "claro_003",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_003.jpg",
+    "plana": "planas/claro_003.png",
+    "cantos": [
+      [
+        126.0999984741211,
+        76.5
+      ],
+      [
+        1136.0,
+        91.5
+      ],
+      [
+        1104.0,
+        1575.199951171875
+      ],
+      [
+        138.3000030517578,
+        1506.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Industrial",
+      "numero": "1146",
+      "complemento": "",
+      "bairro": "Jardim",
+      "cidade": "Santo André",
+      "uf": "SP",
+      "cep": "09080-907"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Itapura",
+        "numero": "1091",
+        "complemento": "Bloco D Apto 25",
+        "bairro": "Tatuapé",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "03310-297"
+      }
+    ]
+  },
+  {
+    "id": "claro_004",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_004.jpg",
+    "plana": "planas/claro_004.png",
+    "cantos": [
+      [
+        133.1999969482422,
+        294.6000061035156
+      ],
+      [
+        1005.7000122070312,
+        112.5
+      ],
+      [
+        1179.699951171875,
+        1414.699951171875
+      ],
+      [
+        262.20001220703125,
+        1515.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "2112",
+      "complemento": "Fundos",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-318"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_005",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_005.jpg",
+    "plana": "planas/claro_005.png",
+    "cantos": [
+      [
+        336.3999938964844,
+        210.6999969482422
+      ],
+      [
+        1195.0,
+        437.20001220703125
+      ],
+      [
+        856.7000122070312,
+        1595.0
+      ],
+      [
+        5.0,
+        1322.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Teodoro Sampaio",
+      "numero": "1782",
+      "complemento": "",
+      "bairro": "Pinheiros",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "05405-559"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Afonso Pena",
+        "numero": "714",
+        "complemento": "Casa 1",
+        "bairro": "Centro",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30130-782"
+      }
+    ]
+  },
+  {
+    "id": "claro_006",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_006.jpg",
+    "plana": "planas/claro_006.png",
+    "cantos": [
+      [
+        93.4000015258789,
+        91.9000015258789
+      ],
+      [
+        1049.0,
+        40.70000076293945
+      ],
+      [
+        1105.0999755859375,
+        1416.800048828125
+      ],
+      [
+        143.3000030517578,
+        1476.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Ipiranga",
+      "numero": "2039",
+      "complemento": "",
+      "bairro": "Ipiranga",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "04206-153"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Voluntários da Pátria",
+        "numero": "1653",
+        "complemento": "Apto 43",
+        "bairro": "Santana",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "02330-440"
+      }
+    ]
+  },
+  {
+    "id": "claro_007",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_007.jpg",
+    "plana": "planas/claro_007.png",
+    "cantos": [
+      [
+        323.0,
+        127.5999984741211
+      ],
+      [
+        1054.5,
+        320.8999938964844
+      ],
+      [
+        961.9000244140625,
+        1405.0999755859375
+      ],
+      [
+        130.10000610351562,
+        1415.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Voluntários da Pátria",
+      "numero": "466",
+      "complemento": "Casa 5",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "22270-863"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Inajar de Souza",
+        "numero": "3221",
+        "complemento": "",
+        "bairro": "Limão",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "02805-513"
+      }
+    ]
+  },
+  {
+    "id": "claro_008",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_008.jpg",
+    "plana": "planas/claro_008.png",
+    "cantos": [
+      [
+        5.0,
+        392.3999938964844
+      ],
+      [
+        939.0,
+        115.30000305175781
+      ],
+      [
+        1195.0,
+        1247.5999755859375
+      ],
+      [
+        327.0,
+        1595.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Augusta",
+      "numero": "2902",
+      "complemento": "Apto 101",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01305-578"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Tobias Barreto",
+        "numero": "3479",
+        "complemento": "",
+        "bairro": "Mooca",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "03176-530"
+      }
+    ]
+  },
+  {
+    "id": "claro_009",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_009.jpg",
+    "plana": "planas/claro_009.png",
+    "cantos": [
+      [
+        133.39999389648438,
+        92.19999694824219
+      ],
+      [
+        1109.9000244140625,
+        139.3000030517578
+      ],
+      [
+        1030.5999755859375,
+        1440.800048828125
+      ],
+      [
+        130.0,
+        1418.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Afonso Pena",
+      "numero": "2459",
+      "complemento": "Bloco C Apto 69",
+      "bairro": "Centro",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "cep": "30130-088"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Estrada do M'Boi Mirim",
+        "numero": "651",
+        "complemento": "",
+        "bairro": "Jardim Ângela",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04905-137"
+      }
+    ]
+  },
+  {
+    "id": "claro_010",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_010.jpg",
+    "plana": "planas/claro_010.png",
+    "cantos": [
+      [
+        226.0,
+        180.5
+      ],
+      [
+        1040.5999755859375,
+        200.89999389648438
+      ],
+      [
+        1064.699951171875,
+        1409.0
+      ],
+      [
+        125.0999984741211,
+        1381.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Itapura",
+      "numero": "3905",
+      "complemento": "Casa 2",
+      "bairro": "Tatuapé",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03310-728"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Itapura",
+        "numero": "443",
+        "complemento": "Fundos",
+        "bairro": "Tatuapé",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "03310-179"
+      }
+    ]
+  },
+  {
+    "id": "claro_011",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_011.jpg",
+    "plana": "planas/claro_011.png",
+    "cantos": [
+      [
+        45.400001525878906,
+        393.29998779296875
+      ],
+      [
+        911.2999877929688,
+        15.199999809265137
+      ],
+      [
+        1081.300048828125,
+        1136.5
+      ],
+      [
+        285.20001220703125,
+        1400.300048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Primitiva Vianco",
+      "numero": "29",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Osasco",
+      "uf": "SP",
+      "cep": "06016-767"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Estrada do M'Boi Mirim",
+        "numero": "990",
+        "complemento": "Apto 83",
+        "bairro": "Jardim Ângela",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04905-265"
+      }
+    ]
+  },
+  {
+    "id": "claro_012",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_012.jpg",
+    "plana": "planas/claro_012.png",
+    "cantos": [
+      [
+        167.39999389648438,
+        45.70000076293945
+      ],
+      [
+        1123.9000244140625,
+        135.10000610351562
+      ],
+      [
+        1050.9000244140625,
+        1403.199951171875
+      ],
+      [
+        116.80000305175781,
+        1369.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "716",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01310-437"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Tiradentes",
+        "numero": "3530",
+        "complemento": "",
+        "bairro": "Bom Clima",
+        "cidade": "Guarulhos",
+        "uf": "SP",
+        "cep": "07196-890"
+      }
+    ]
+  },
+  {
+    "id": "claro_013",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_013.jpg",
+    "plana": "planas/claro_013.png",
+    "cantos": [
+      [
+        165.8000030517578,
+        187.10000610351562
+      ],
+      [
+        1010.0999755859375,
+        111.69999694824219
+      ],
+      [
+        1025.699951171875,
+        1302.5999755859375
+      ],
+      [
+        169.10000610351562,
+        1418.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "334",
+      "complemento": "Fundos",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01311-666"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Industrial",
+        "numero": "461",
+        "complemento": "",
+        "bairro": "Jardim",
+        "cidade": "Santo André",
+        "uf": "SP",
+        "cep": "09080-359"
+      }
+    ]
+  },
+  {
+    "id": "claro_014",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_014.jpg",
+    "plana": "planas/claro_014.png",
+    "cantos": [
+      [
+        93.5,
+        215.89999389648438
+      ],
+      [
+        978.0999755859375,
+        180.39999389648438
+      ],
+      [
+        1195.0,
+        1363.699951171875
+      ],
+      [
+        234.89999389648438,
+        1531.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Vergueiro",
+      "numero": "553",
+      "complemento": "",
+      "bairro": "Liberdade",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01504-667"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_015",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_015.jpg",
+    "plana": "planas/claro_015.png",
+    "cantos": [
+      [
+        152.89999389648438,
+        168.60000610351562
+      ],
+      [
+        1064.199951171875,
+        193.8000030517578
+      ],
+      [
+        984.5999755859375,
+        1446.5999755859375
+      ],
+      [
+        95.5,
+        1433.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Sete de Setembro",
+      "numero": "2341",
+      "complemento": "Apto 202",
+      "bairro": "Centro",
+      "cidade": "Santos",
+      "uf": "SP",
+      "cep": "11013-306"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Dom Pedro II",
+        "numero": "1115",
+        "complemento": "",
+        "bairro": "Centro",
+        "cidade": "Guarulhos",
+        "uf": "SP",
+        "cep": "07018-550"
+      }
+    ]
+  },
+  {
+    "id": "claro_016",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_016.jpg",
+    "plana": "planas/claro_016.png",
+    "cantos": [
+      [
+        234.6999969482422,
+        160.39999389648438
+      ],
+      [
+        1138.4000244140625,
+        274.0
+      ],
+      [
+        963.7000122070312,
+        1542.9000244140625
+      ],
+      [
+        134.8000030517578,
+        1285.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Industrial",
+      "numero": "1122",
+      "complemento": "Fundos",
+      "bairro": "Jardim",
+      "cidade": "Santo André",
+      "uf": "SP",
+      "cep": "09080-502"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_017",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_017.jpg",
+    "plana": "planas/claro_017.png",
+    "cantos": [
+      [
+        61.79999923706055,
+        401.20001220703125
+      ],
+      [
+        742.5,
+        108.69999694824219
+      ],
+      [
+        1113.9000244140625,
+        1192.0999755859375
+      ],
+      [
+        432.79998779296875,
+        1440.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Itapura",
+      "numero": "865",
+      "complemento": "Casa 1",
+      "bairro": "Tatuapé",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03310-982"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_018",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_018.jpg",
+    "plana": "planas/claro_018.png",
+    "cantos": [
+      [
+        105.30000305175781,
+        191.39999389648438
+      ],
+      [
+        1046.5,
+        106.5
+      ],
+      [
+        1099.699951171875,
+        1483.5
+      ],
+      [
+        146.1999969482422,
+        1573.4000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Tiradentes",
+      "numero": "1132",
+      "complemento": "Apto 241",
+      "bairro": "Bom Clima",
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "cep": "07196-264"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Estrada do M'Boi Mirim",
+        "numero": "3401",
+        "complemento": "",
+        "bairro": "Jardim Ângela",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04947-082"
+      }
+    ]
+  },
+  {
+    "id": "claro_019",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_019.jpg",
+    "plana": "planas/claro_019.png",
+    "cantos": [
+      [
+        177.3000030517578,
+        119.0
+      ],
+      [
+        1139.9000244140625,
+        58.29999923706055
+      ],
+      [
+        1110.699951171875,
+        1361.5
+      ],
+      [
+        133.0,
+        1353.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Inajar de Souza",
+      "numero": "124",
+      "complemento": "Casa 4",
+      "bairro": "Limão",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "02742-290"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Marechal Deodoro",
+        "numero": "11",
+        "complemento": "Apto 124",
+        "bairro": "Centro",
+        "cidade": "São Bernardo do Campo",
+        "uf": "SP",
+        "cep": "09710-697"
+      }
+    ]
+  },
+  {
+    "id": "claro_020",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_020.jpg",
+    "plana": "planas/claro_020.png",
+    "cantos": [
+      [
+        163.3000030517578,
+        409.79998779296875
+      ],
+      [
+        944.9000244140625,
+        127.19999694824219
+      ],
+      [
+        1195.0,
+        1291.0
+      ],
+      [
+        335.6000061035156,
+        1415.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Barão de Jaguara",
+      "numero": "1032",
+      "complemento": "Bloco C Apto 35",
+      "bairro": "Centro",
+      "cidade": "Campinas",
+      "uf": "SP",
+      "cep": "13015-768"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_021",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_021.jpg",
+    "plana": "planas/claro_021.png",
+    "cantos": [
+      [
+        178.1999969482422,
+        92.30000305175781
+      ],
+      [
+        1120.0,
+        180.3000030517578
+      ],
+      [
+        1025.699951171875,
+        1493.0999755859375
+      ],
+      [
+        56.5,
+        1442.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "2083",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01310-787"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Industrial",
+        "numero": "714",
+        "complemento": "",
+        "bairro": "Jardim",
+        "cidade": "Santo André",
+        "uf": "SP",
+        "cep": "09080-458"
+      }
+    ]
+  },
+  {
+    "id": "claro_022",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_022.jpg",
+    "plana": "planas/claro_022.png",
+    "cantos": [
+      [
+        100.5,
+        144.10000610351562
+      ],
+      [
+        900.0999755859375,
+        94.80000305175781
+      ],
+      [
+        1143.5999755859375,
+        1302.199951171875
+      ],
+      [
+        281.8999938964844,
+        1524.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Afonso Pena",
+      "numero": "2713",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "cep": "30130-831"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_023",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_023.jpg",
+    "plana": "planas/claro_023.png",
+    "cantos": [
+      [
+        172.60000610351562,
+        165.3000030517578
+      ],
+      [
+        1021.5999755859375,
+        336.1000061035156
+      ],
+      [
+        939.4000244140625,
+        1580.300048828125
+      ],
+      [
+        151.60000610351562,
+        1485.699951171875
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Augusta",
+      "numero": "2169",
+      "complemento": "",
+      "bairro": "Consolação",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01304-482"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Inajar de Souza",
+        "numero": "1412",
+        "complemento": "Fundos",
+        "bairro": "Limão",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "02785-257"
+      }
+    ]
+  },
+  {
+    "id": "claro_024",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_024.jpg",
+    "plana": "planas/claro_024.png",
+    "cantos": [
+      [
+        118.9000015258789,
+        120.69999694824219
+      ],
+      [
+        1097.5999755859375,
+        165.39999389648438
+      ],
+      [
+        1049.5,
+        1543.0999755859375
+      ],
+      [
+        47.20000076293945,
+        1486.5999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Voluntários da Pátria",
+      "numero": "3888",
+      "complemento": "",
+      "bairro": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "22270-804"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Ipiranga",
+        "numero": "3922",
+        "complemento": "",
+        "bairro": "Ipiranga",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04209-348"
+      }
+    ]
+  },
+  {
+    "id": "claro_025",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_025.jpg",
+    "plana": "planas/claro_025.png",
+    "cantos": [
+      [
+        124.80000305175781,
+        277.5
+      ],
+      [
+        998.0999755859375,
+        159.5
+      ],
+      [
+        1080.5999755859375,
+        1435.5
+      ],
+      [
+        282.6000061035156,
+        1500.800048828125
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Itapura",
+      "numero": "3577",
+      "complemento": "",
+      "bairro": "Tatuapé",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03310-476"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      }
+    ]
+  },
+  {
+    "id": "claro_026",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_026.jpg",
+    "plana": "planas/claro_026.png",
+    "cantos": [
+      [
+        134.10000610351562,
+        195.1999969482422
+      ],
+      [
+        1033.0999755859375,
+        167.60000610351562
+      ],
+      [
+        927.0999755859375,
+        1517.699951171875
+      ],
+      [
+        150.10000610351562,
+        1412.5
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Primitiva Vianco",
+      "numero": "1469",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "Osasco",
+      "uf": "SP",
+      "cep": "06016-079"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Inajar de Souza",
+        "numero": "1015",
+        "complemento": "Bloco B Apto 41",
+        "bairro": "Limão",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "02743-117"
+      }
+    ]
+  },
+  {
+    "id": "claro_027",
+    "empresa": "claro",
+    "nivel": "facil",
+    "foto": "fotos/claro_027.jpg",
+    "plana": "planas/claro_027.png",
+    "cantos": [
+      [
+        70.0999984741211,
+        144.8000030517578
+      ],
+      [
+        1074.9000244140625,
+        136.0
+      ],
+      [
+        1088.199951171875,
+        1532.699951171875
+      ],
+      [
+        147.5,
+        1517.9000244140625
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "3570",
+      "complemento": "",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "01311-520"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Avenida Paulista",
+        "numero": "726",
+        "complemento": "Fundos",
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01310-716"
+      }
+    ]
+  },
+  {
+    "id": "claro_028",
+    "empresa": "claro",
+    "nivel": "medio",
+    "foto": "fotos/claro_028.jpg",
+    "plana": "planas/claro_028.png",
+    "cantos": [
+      [
+        171.5,
+        71.9000015258789
+      ],
+      [
+        1058.0,
+        100.30000305175781
+      ],
+      [
+        986.7000122070312,
+        1427.0999755859375
+      ],
+      [
+        28.0,
+        1401.0
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Rua Marechal Deodoro",
+      "numero": "3942",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "cep": "09710-912"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Voluntários da Pátria",
+        "numero": "1697",
+        "complemento": "",
+        "bairro": "Santana",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "02233-484"
+      }
+    ]
+  },
+  {
+    "id": "claro_029",
+    "empresa": "claro",
+    "nivel": "dificil",
+    "foto": "fotos/claro_029.jpg",
+    "plana": "planas/claro_029.png",
+    "cantos": [
+      [
+        292.20001220703125,
+        199.39999389648438
+      ],
+      [
+        1092.300048828125,
+        122.80000305175781
+      ],
+      [
+        1003.4000244140625,
+        1359.199951171875
+      ],
+      [
+        166.5,
+        1310.0999755859375
+      ]
+    ],
+    "endereco": {
+      "logradouro": "Avenida Celso Garcia",
+      "numero": "3841",
+      "complemento": "Casa 5",
+      "bairro": "Brás",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "cep": "03058-026"
+    },
+    "distratores": [
+      {
+        "logradouro": "Rua Henri Dunant",
+        "numero": "780",
+        "complemento": "",
+        "bairro": "Santo Amaro",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04709-110"
+      },
+      {
+        "logradouro": "Rua Domingos de Morais",
+        "numero": "1570",
+        "complemento": "",
+        "bairro": "Vila Mariana",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "04017-765"
+      }
+    ]
+  }
+]

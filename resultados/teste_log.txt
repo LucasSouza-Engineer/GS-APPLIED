@@ -1,0 +1,85 @@
+
+== completo ==
+{
+ "n": 90,
+ "classificacao_acuracia": 1.0,
+ "endereco_exato": 0.8667,
+ "cer_medio": 0.0679,
+ "taxa_distrator": 0.0333,
+ "validos": 0.9667,
+ "tempo_medio_ms": 4003.8444,
+ "campos": {
+  "logradouro": 0.9111,
+  "numero": 0.9222,
+  "complemento": 0.9222,
+  "bairro": 0.9111,
+  "cidade": 0.9556,
+  "uf": 0.9667,
+  "cep": 0.9333
+ },
+ "deteccao_iou_medio": 0.9861,
+ "deteccao_sucesso_iou90": 0.9778,
+ "cobertura_confiavel": 0.9111,
+ "acuracia_quando_confiavel": 0.939,
+ "acuracia_quando_revisar": 0.125
+}
+
+== sem_perspectiva ==
+{
+ "n": 90,
+ "classificacao_acuracia": 0.6556,
+ "endereco_exato": 0.4111,
+ "cer_medio": 0.4866,
+ "taxa_distrator": 0.0222,
+ "validos": 0.5222,
+ "tempo_medio_ms": 6125.8667,
+ "campos": {
+  "logradouro": 0.4556,
+  "numero": 0.5,
+  "complemento": 0.6444,
+  "bairro": 0.4667,
+  "cidade": 0.5222,
+  "uf": 0.5444,
+  "cep": 0.5333
+ },
+ "cobertura_confiavel": 0.5111,
+ "acuracia_quando_confiavel": 0.8043,
+ "acuracia_quando_revisar": 0.0
+}
+
+== plana ==
+{
+ "n": 90,
+ "classificacao_acuracia": 1.0,
+ "endereco_exato": 0.9778,
+ "cer_medio": 0.0,
+ "taxa_distrator": 0.0,
+ "validos": 0.9778,
+ "tempo_medio_ms": 2899.1222,
+ "campos": {
+  "logradouro": 1.0,
+  "numero": 1.0,
+  "complemento": 1.0,
+  "bairro": 1.0,
+  "cidade": 0.9778,
+  "uf": 0.9778,
+  "cep": 1.0
+ },
+ "cobertura_confiavel": 0.9667,
+ "acuracia_quando_confiavel": 1.0,
+ "acuracia_quando_revisar": 0.3333
+}
+
+Erros (completo):
+  enel_002 dificil ['complemento'] {"logradouro": "Rua Sete de Setembro", "numero": "3782", "complemento": "Bloco Capto 51 | “encimento", "bairro": "Centro", "cidade": "Santos", "uf": "SP", "cep": "11013-983"}
+  enel_006 facil ['bairro'] {"logradouro": "Avenida Celso Garcia", "numero": "303", "complemento": "", "bairro": "És", "cidade": "São Paulo", "uf": "SP", "cep": "03023-616"}
+  enel_008 dificil ['logradouro'] {"logradouro": "Rua Dom Pedro IL", "numero": "2388", "complemento": "Bloco C Apto 50", "bairro": "Centro", "cidade": "Guarulhos", "uf": "SP", "cep": "07042-982"}
+  enel_013 medio ['bairro'] {"logradouro": "Rua Tobias Barreto", "numero": "2995", "complemento": "Casa 1", "bairro": "Era", "cidade": "São Paulo", "uf": "SP", "cep": "03176-528"}
+  enel_026 dificil ['logradouro', 'numero', 'bairro', 'cidade', 'uf', 'cep'] {}
+  enel_029 dificil ['numero', 'complemento'] {"logradouro": "Travessa das Flores", "numero": "106", "complemento": "", "bairro": "Itaquera", "cidade": "São Paulo", "uf": "SP", "cep": "08226-659"}
+  sabesp_023 dificil ['logradouro'] {"logradouro": "Ay. Industrial", "numero": "3355", "complemento": "Fundos", "bairro": "Jardim", "cidade": "Santo André", "uf": "SP", "cep": "09080-779"}
+  claro_008 dificil ['logradouro', 'numero', 'complemento', 'bairro', 'cidade', 'uf', 'cep'] {}
+  claro_017 dificil ['logradouro', 'numero', 'complemento', 'bairro', 'cidade', 'uf', 'cep'] {}
+  claro_023 dificil ['logradouro', 'numero', 'complemento', 'bairro', 'cep'] {"logradouro": "Avenida Insjar de Souza", "numero": "1412", "complemento": "Fundos", "bairro": "Limão", "cidade": "São Paulo", "uf": "SP", "cep": "02785-257"}
+  claro_026 dificil ['logradouro', 'numero', 'complemento', 'bairro', 'cidade', 'cep'] {"logradouro": "Avenida Inajar de Souza", "numero": "1015", "complemento": "Bloco B Apto 41", "bairro": "Endoraço do Cobronça", "cidade": "São Paulo", "uf": "SP", "cep": "02743-117"}
+  claro_029 dificil ['logradouro', 'numero', 'complemento', 'bairro', 'cep'] {"logradouro": "Rus Domingos de Morais", "numero": "1570", "complemento": "", "bairro": "Via Mariana", "cidade": "São Paulo", "uf": "SP", "cep": "04017-765"}

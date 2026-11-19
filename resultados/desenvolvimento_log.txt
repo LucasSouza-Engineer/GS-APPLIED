@@ -1,0 +1,31 @@
+
+== completo ==
+{
+ "n": 60,
+ "classificacao_acuracia": 1.0,
+ "endereco_exato": 0.9333,
+ "cer_medio": 0.0108,
+ "taxa_distrator": 0.0167,
+ "validos": 1.0,
+ "tempo_medio_ms": 3557.8167,
+ "campos": {
+  "logradouro": 0.9833,
+  "numero": 0.9833,
+  "complemento": 0.9667,
+  "bairro": 0.9667,
+  "cidade": 0.9833,
+  "uf": 1.0,
+  "cep": 0.9833
+ },
+ "deteccao_iou_medio": 0.9881,
+ "deteccao_sucesso_iou90": 0.9833,
+ "cobertura_confiavel": 0.9667,
+ "acuracia_quando_confiavel": 0.9483,
+ "acuracia_quando_revisar": 0.5
+}
+
+Erros (completo):
+  enel_007 medio ['complemento'] {"logradouro": "Rua Voluntários da Pátria", "numero": "2694", "complemento": "Bloco C Apto Ae Cre K", "bairro": "Botafogo", "cidade": "Rio de Janeiro", "uf": "RJ", "cep": "22270-240"}
+  enel_010 medio ['complemento', 'bairro'] {"logradouro": "Rua Sete de Setembro", "numero": "1812", "complemento": "Bloco Dapto 41", "bairro": "Certo", "cidade": "Santos", "uf": "SP", "cep": "11013-743"}
+  sabesp_011 dificil ['cidade'] {"logradouro": "Rua Marechal Deodoro", "numero": "3973", "complemento": "", "bairro": "Centro", "cidade": "São Berardo do Campo", "uf": "SP", "cep": "09710-181"}
+  claro_017 dificil ['logradouro', 'numero', 'bairro', 'cep'] {"logradouro": "Avenida Inajar de Souza", "numero": "612", "complemento": "", "bairro": "Limão", "cidade": "São Paulo", "uf": "SP", "cep": "02790-177"}

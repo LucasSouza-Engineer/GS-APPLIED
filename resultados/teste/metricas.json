@@ -1,0 +1,535 @@
+{
+  "completo": {
+    "geral": {
+      "n": 90,
+      "classificacao_acuracia": 1.0,
+      "endereco_exato": 0.8667,
+      "cer_medio": 0.0679,
+      "taxa_distrator": 0.0333,
+      "validos": 0.9667,
+      "tempo_medio_ms": 4003.8444,
+      "campos": {
+        "logradouro": 0.9111,
+        "numero": 0.9222,
+        "complemento": 0.9222,
+        "bairro": 0.9111,
+        "cidade": 0.9556,
+        "uf": 0.9667,
+        "cep": 0.9333
+      },
+      "deteccao_iou_medio": 0.9861,
+      "deteccao_sucesso_iou90": 0.9778,
+      "cobertura_confiavel": 0.9111,
+      "acuracia_quando_confiavel": 0.939,
+      "acuracia_quando_revisar": 0.125
+    },
+    "por_empresa": {
+      "enel": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.8,
+        "cer_medio": 0.0481,
+        "taxa_distrator": 0.0,
+        "validos": 0.9667,
+        "tempo_medio_ms": 4019.4667,
+        "campos": {
+          "logradouro": 0.9333,
+          "numero": 0.9333,
+          "complemento": 0.9333,
+          "bairro": 0.9,
+          "cidade": 0.9667,
+          "uf": 0.9667,
+          "cep": 0.9667
+        },
+        "deteccao_iou_medio": 0.9804,
+        "deteccao_sucesso_iou90": 0.9667,
+        "cobertura_confiavel": 0.9,
+        "acuracia_quando_confiavel": 0.8889,
+        "acuracia_quando_revisar": 0.0
+      },
+      "sabesp": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.9667,
+        "cer_medio": 0.0032,
+        "taxa_distrator": 0.0,
+        "validos": 1.0,
+        "tempo_medio_ms": 3689.4333,
+        "campos": {
+          "logradouro": 0.9667,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 1.0,
+          "uf": 1.0,
+          "cep": 1.0
+        },
+        "deteccao_iou_medio": 0.9924,
+        "deteccao_sucesso_iou90": 1.0,
+        "cobertura_confiavel": 0.9667,
+        "acuracia_quando_confiavel": 0.9655,
+        "acuracia_quando_revisar": 1.0
+      },
+      "claro": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.8333,
+        "cer_medio": 0.1522,
+        "taxa_distrator": 0.1,
+        "validos": 0.9333,
+        "tempo_medio_ms": 4302.6333,
+        "campos": {
+          "logradouro": 0.8333,
+          "numero": 0.8333,
+          "complemento": 0.8333,
+          "bairro": 0.8333,
+          "cidade": 0.9,
+          "uf": 0.9333,
+          "cep": 0.8333
+        },
+        "deteccao_iou_medio": 0.9855,
+        "deteccao_sucesso_iou90": 0.9667,
+        "cobertura_confiavel": 0.8667,
+        "acuracia_quando_confiavel": 0.9615,
+        "acuracia_quando_revisar": 0.0
+      }
+    },
+    "por_nivel": {
+      "facil": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.9667,
+        "cer_medio": 0.0019,
+        "taxa_distrator": 0.0,
+        "validos": 1.0,
+        "tempo_medio_ms": 3591.6667,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 0.9667,
+          "cidade": 1.0,
+          "uf": 1.0,
+          "cep": 1.0
+        },
+        "deteccao_iou_medio": 0.995,
+        "deteccao_sucesso_iou90": 1.0,
+        "cobertura_confiavel": 0.9667,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": 0.0
+      },
+      "medio": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.9667,
+        "cer_medio": 0.0023,
+        "taxa_distrator": 0.0,
+        "validos": 1.0,
+        "tempo_medio_ms": 3760.5,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 0.9667,
+          "cidade": 1.0,
+          "uf": 1.0,
+          "cep": 1.0
+        },
+        "deteccao_iou_medio": 0.9934,
+        "deteccao_sucesso_iou90": 1.0,
+        "cobertura_confiavel": 1.0,
+        "acuracia_quando_confiavel": 0.9667,
+        "acuracia_quando_revisar": null
+      },
+      "dificil": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.6667,
+        "cer_medio": 0.1994,
+        "taxa_distrator": 0.1,
+        "validos": 0.9,
+        "tempo_medio_ms": 4659.3667,
+        "campos": {
+          "logradouro": 0.7333,
+          "numero": 0.7667,
+          "complemento": 0.7667,
+          "bairro": 0.8,
+          "cidade": 0.8667,
+          "uf": 0.9,
+          "cep": 0.8
+        },
+        "deteccao_iou_medio": 0.9699,
+        "deteccao_sucesso_iou90": 0.9333,
+        "cobertura_confiavel": 0.7667,
+        "acuracia_quando_confiavel": 0.8261,
+        "acuracia_quando_revisar": 0.1429
+      }
+    },
+    "matriz_confusao": {
+      "enel": {
+        "enel": 30,
+        "sabesp": 0,
+        "claro": 0,
+        "nenhuma": 0
+      },
+      "sabesp": {
+        "enel": 0,
+        "sabesp": 30,
+        "claro": 0,
+        "nenhuma": 0
+      },
+      "claro": {
+        "enel": 0,
+        "sabesp": 0,
+        "claro": 30,
+        "nenhuma": 0
+      }
+    }
+  },
+  "sem_perspectiva": {
+    "geral": {
+      "n": 90,
+      "classificacao_acuracia": 0.6556,
+      "endereco_exato": 0.4111,
+      "cer_medio": 0.4866,
+      "taxa_distrator": 0.0222,
+      "validos": 0.5222,
+      "tempo_medio_ms": 6125.8667,
+      "campos": {
+        "logradouro": 0.4556,
+        "numero": 0.5,
+        "complemento": 0.6444,
+        "bairro": 0.4667,
+        "cidade": 0.5222,
+        "uf": 0.5444,
+        "cep": 0.5333
+      },
+      "cobertura_confiavel": 0.5111,
+      "acuracia_quando_confiavel": 0.8043,
+      "acuracia_quando_revisar": 0.0
+    },
+    "por_empresa": {
+      "enel": {
+        "n": 30,
+        "classificacao_acuracia": 0.6333,
+        "endereco_exato": 0.3667,
+        "cer_medio": 0.5252,
+        "taxa_distrator": 0.0,
+        "validos": 0.4667,
+        "tempo_medio_ms": 6681.5333,
+        "campos": {
+          "logradouro": 0.4,
+          "numero": 0.4667,
+          "complemento": 0.5667,
+          "bairro": 0.4333,
+          "cidade": 0.5,
+          "uf": 0.5,
+          "cep": 0.5
+        },
+        "cobertura_confiavel": 0.4667,
+        "acuracia_quando_confiavel": 0.7857,
+        "acuracia_quando_revisar": 0.0
+      },
+      "sabesp": {
+        "n": 30,
+        "classificacao_acuracia": 0.7,
+        "endereco_exato": 0.3333,
+        "cer_medio": 0.5142,
+        "taxa_distrator": 0.0333,
+        "validos": 0.5,
+        "tempo_medio_ms": 6288.1667,
+        "campos": {
+          "logradouro": 0.4,
+          "numero": 0.4667,
+          "complemento": 0.6667,
+          "bairro": 0.4,
+          "cidade": 0.5333,
+          "uf": 0.5333,
+          "cep": 0.5
+        },
+        "cobertura_confiavel": 0.4667,
+        "acuracia_quando_confiavel": 0.7143,
+        "acuracia_quando_revisar": 0.0
+      },
+      "claro": {
+        "n": 30,
+        "classificacao_acuracia": 0.6333,
+        "endereco_exato": 0.5333,
+        "cer_medio": 0.4205,
+        "taxa_distrator": 0.0333,
+        "validos": 0.6,
+        "tempo_medio_ms": 5407.9,
+        "campos": {
+          "logradouro": 0.5667,
+          "numero": 0.5667,
+          "complemento": 0.7,
+          "bairro": 0.5667,
+          "cidade": 0.5333,
+          "uf": 0.6,
+          "cep": 0.6
+        },
+        "cobertura_confiavel": 0.6,
+        "acuracia_quando_confiavel": 0.8889,
+        "acuracia_quando_revisar": 0.0
+      }
+    },
+    "por_nivel": {
+      "facil": {
+        "n": 30,
+        "classificacao_acuracia": 0.9667,
+        "endereco_exato": 0.8333,
+        "cer_medio": 0.0698,
+        "taxa_distrator": 0.0,
+        "validos": 0.9,
+        "tempo_medio_ms": 4111.6333,
+        "campos": {
+          "logradouro": 0.8667,
+          "numero": 0.9,
+          "complemento": 0.8667,
+          "bairro": 0.8667,
+          "cidade": 0.9667,
+          "uf": 0.9667,
+          "cep": 0.9667
+        },
+        "cobertura_confiavel": 0.9,
+        "acuracia_quando_confiavel": 0.9259,
+        "acuracia_quando_revisar": 0.0
+      },
+      "medio": {
+        "n": 30,
+        "classificacao_acuracia": 0.8,
+        "endereco_exato": 0.3667,
+        "cer_medio": 0.5008,
+        "taxa_distrator": 0.0333,
+        "validos": 0.5333,
+        "tempo_medio_ms": 6125.3333,
+        "campos": {
+          "logradouro": 0.4333,
+          "numero": 0.4667,
+          "complemento": 0.6,
+          "bairro": 0.4333,
+          "cidade": 0.5,
+          "uf": 0.5333,
+          "cep": 0.5
+        },
+        "cobertura_confiavel": 0.5,
+        "acuracia_quando_confiavel": 0.7333,
+        "acuracia_quando_revisar": 0.0
+      },
+      "dificil": {
+        "n": 30,
+        "classificacao_acuracia": 0.2,
+        "endereco_exato": 0.0333,
+        "cer_medio": 0.8893,
+        "taxa_distrator": 0.0333,
+        "validos": 0.1333,
+        "tempo_medio_ms": 8140.6333,
+        "campos": {
+          "logradouro": 0.0667,
+          "numero": 0.1333,
+          "complemento": 0.4667,
+          "bairro": 0.1,
+          "cidade": 0.1,
+          "uf": 0.1333,
+          "cep": 0.1333
+        },
+        "cobertura_confiavel": 0.1333,
+        "acuracia_quando_confiavel": 0.25,
+        "acuracia_quando_revisar": 0.0
+      }
+    },
+    "matriz_confusao": {
+      "enel": {
+        "enel": 19,
+        "sabesp": 0,
+        "claro": 4,
+        "nenhuma": 7
+      },
+      "sabesp": {
+        "enel": 0,
+        "sabesp": 21,
+        "claro": 2,
+        "nenhuma": 7
+      },
+      "claro": {
+        "enel": 1,
+        "sabesp": 0,
+        "claro": 19,
+        "nenhuma": 10
+      }
+    }
+  },
+  "plana": {
+    "geral": {
+      "n": 90,
+      "classificacao_acuracia": 1.0,
+      "endereco_exato": 0.9778,
+      "cer_medio": 0.0,
+      "taxa_distrator": 0.0,
+      "validos": 0.9778,
+      "tempo_medio_ms": 2899.1222,
+      "campos": {
+        "logradouro": 1.0,
+        "numero": 1.0,
+        "complemento": 1.0,
+        "bairro": 1.0,
+        "cidade": 0.9778,
+        "uf": 0.9778,
+        "cep": 1.0
+      },
+      "cobertura_confiavel": 0.9667,
+      "acuracia_quando_confiavel": 1.0,
+      "acuracia_quando_revisar": 0.3333
+    },
+    "por_empresa": {
+      "enel": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 1.0,
+        "cer_medio": 0.0,
+        "taxa_distrator": 0.0,
+        "validos": 1.0,
+        "tempo_medio_ms": 2753.3,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 1.0,
+          "uf": 1.0,
+          "cep": 1.0
+        },
+        "cobertura_confiavel": 1.0,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": null
+      },
+      "sabesp": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 1.0,
+        "cer_medio": 0.0,
+        "taxa_distrator": 0.0,
+        "validos": 1.0,
+        "tempo_medio_ms": 2779.4333,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 1.0,
+          "uf": 1.0,
+          "cep": 1.0
+        },
+        "cobertura_confiavel": 1.0,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": null
+      },
+      "claro": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.9333,
+        "cer_medio": 0.0,
+        "taxa_distrator": 0.0,
+        "validos": 0.9333,
+        "tempo_medio_ms": 3164.6333,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 0.9333,
+          "uf": 0.9333,
+          "cep": 1.0
+        },
+        "cobertura_confiavel": 0.9,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": 0.3333
+      }
+    },
+    "por_nivel": {
+      "facil": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.9667,
+        "cer_medio": 0.0,
+        "taxa_distrator": 0.0,
+        "validos": 0.9667,
+        "tempo_medio_ms": 2917.7,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 0.9667,
+          "uf": 0.9667,
+          "cep": 1.0
+        },
+        "cobertura_confiavel": 0.9667,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": 0.0
+      },
+      "medio": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 0.9667,
+        "cer_medio": 0.0,
+        "taxa_distrator": 0.0,
+        "validos": 0.9667,
+        "tempo_medio_ms": 3026.6,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 0.9667,
+          "uf": 0.9667,
+          "cep": 1.0
+        },
+        "cobertura_confiavel": 0.9667,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": 0.0
+      },
+      "dificil": {
+        "n": 30,
+        "classificacao_acuracia": 1.0,
+        "endereco_exato": 1.0,
+        "cer_medio": 0.0,
+        "taxa_distrator": 0.0,
+        "validos": 1.0,
+        "tempo_medio_ms": 2753.0667,
+        "campos": {
+          "logradouro": 1.0,
+          "numero": 1.0,
+          "complemento": 1.0,
+          "bairro": 1.0,
+          "cidade": 1.0,
+          "uf": 1.0,
+          "cep": 1.0
+        },
+        "cobertura_confiavel": 0.9667,
+        "acuracia_quando_confiavel": 1.0,
+        "acuracia_quando_revisar": 1.0
+      }
+    },
+    "matriz_confusao": {
+      "enel": {
+        "enel": 30,
+        "sabesp": 0,
+        "claro": 0,
+        "nenhuma": 0
+      },
+      "sabesp": {
+        "enel": 0,
+        "sabesp": 30,
+        "claro": 0,
+        "nenhuma": 0
+      },
+      "claro": {
+        "enel": 0,
+        "sabesp": 0,
+        "claro": 30,
+        "nenhuma": 0
+      }
+    }
+  }
+}
